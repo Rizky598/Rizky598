@@ -27,7 +27,7 @@
 </div>
 
 ###
-<h3>📫 Reach me</h3>
+<h3>📫 Hubungi saya</h3
 <p>
   <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
