@@ -1,8 +1,8 @@
 ![](cs.gif)
 
-## Hi there 👋
+## Hai yang di sana👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Mobile Development, Machine Learning, and IoT</h3>
+<h3 align="center">Saya Rizky, seorang siswa SMP yang menyukai pemrograman dan berfokus pada Pengembangan Seluler, Pembelajaran Mesin, dan IoT</h3>
 
 - 🔭 I'm currently studying programming fields such as **Mobile Dev, IoT and Machine Learning**.
 
